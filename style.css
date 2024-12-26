@@ -1,0 +1,39 @@
+body {
+    background-color: #1f1f1f;
+    color: #f1f1f1;
+    font-family: 'Poppins';
+
+}
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+.move-icon {
+    height: 70px;
+}
+.move-button {
+    background-color: transparent;
+    border: #f1f1f1;
+    border-style: dashed;
+    padding: 30px;
+    border-radius: 100%;
+    margin: 0px 10px;
+    cursor: pointer;
+
+}
+.score {
+    margin-top: 60px;
+}
+.result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.reset-button {
+    padding: 5px 10px;
+    font-family: 'Poppins';
+    border-radius: 50px;
+    font-size: 15px;
+    border: none;
+}
